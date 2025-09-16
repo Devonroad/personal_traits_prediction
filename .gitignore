@@ -1,1 +1,4 @@
-dataset/
+.env/
+.ipynb_checkpoints/
+data.csv
+__pycache__/
